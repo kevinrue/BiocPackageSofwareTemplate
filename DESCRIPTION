@@ -1,13 +1,15 @@
 Package: BiocPackageSofwareTemplate
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Template of Bioconductor Software Package
+Version: 0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Kevin",
+           family = "Rue-Albrecht",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "kevinrue67@gmail.com",
+           comment = c(ORCID = "0000-0003-3899-3872"))
+Description: This package is intended as a boilerplate that prospective developers can use as a template to get started more rapidly.
+    In particular, it provides code, man pages, vignettes, and unit tests,
+    as well as GitHub Action workflows for continuous integration and continuous deployment of a Docker container and a pkgdown website on GitHub Pages.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
