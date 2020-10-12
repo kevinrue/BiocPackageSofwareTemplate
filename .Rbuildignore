@@ -2,3 +2,4 @@
 ^renv\.lock$
 ^BiocPackageSofwareTemplate\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
